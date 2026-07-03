@@ -377,3 +377,5 @@ On a personal note -- I've been frustrated by how little progress Final Cut Pro 
 ## License
 
 [MIT](LICENSE)
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
